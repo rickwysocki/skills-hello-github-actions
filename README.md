@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-:)
+😄
 
 # Hello GitHub Actions
 
